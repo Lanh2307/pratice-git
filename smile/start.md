@@ -18,6 +18,7 @@ I. Các câu lệnh trong git
 17. git branch -r: liệt kê các branch trên mạng
 18. git branch -vv: liệt kê các branch trên mạng và cục bộ
 19. git branch -u origin/main: đồng bộ branch trên mạng và cục bộ
+20. uoe
 
 II. Các câu lệnh trong VS Code
 1. Ctrl + ` : mở terminal
