@@ -110,11 +110,6 @@ VI. Các câu lệnh trong CSS
 31. pseudo-elements: phần tử giả
 32. selectors: bộ chọn
 33. specificity: độ đặc hiệu
-34. inheritance: kế thừa
-35. cascade: thác nước
-36. box model: mô hình hộp
-37. flexbox: bố cục flex
-38. grid: bố cục lưới
 39. media queries: truy vấn phương tiện
 40. variables: biến
 41. animations: hoạt ảnh
